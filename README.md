@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Prahalad7568
+- 👋 Hi, I’m Prahlad 
 - 👀 I’m interested in Web Dev.
 - 🌱 I’m currently learning MERN stack .
 - 💞️ I’m looking to collaborate on web development projects .
